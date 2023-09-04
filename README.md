@@ -12,7 +12,7 @@ My name is Saram, and I'm currently majoring in computer science with a focus on
 - CSS
 
 ## Current Projects
-- Self-taught web development
+- Self-taught web development through various resources
 - Object-Oriented Programming in Java
 - Data Structures and Algorithms in C++
 
